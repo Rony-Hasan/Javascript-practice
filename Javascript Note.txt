@@ -1,0 +1,2 @@
+javascript single line commnet----->>>>>  //
+javascript multiline comment------->>>>>  start ->>>>  /*  End-->> */
